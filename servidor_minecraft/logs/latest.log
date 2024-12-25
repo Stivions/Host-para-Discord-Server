@@ -30,3 +30,13 @@
 [20:48:32] [Server thread/INFO]: /clone <x1> <y1> <z1> <x2> <y2> <z2> <x> <y> <z> [maskMode] [cloneMode]
 [20:48:32] [Server thread/INFO]: Tip: Use the <tab> key while typing a command to auto-complete the command or its arguments
 [20:48:41] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[20:50:01] [Server thread/INFO]: --- Showing help page 1 of 10 (/help <page>) ---
+[20:50:01] [Server thread/INFO]: /advancement <grant|revoke|test> <player>
+[20:50:01] [Server thread/INFO]: /ban <name> [reason ...]
+[20:50:01] [Server thread/INFO]: /ban-ip <address|name> [reason ...]
+[20:50:01] [Server thread/INFO]: /banlist [ips|players]
+[20:50:01] [Server thread/INFO]: /blockdata <x> <y> <z> <dataTag>
+[20:50:01] [Server thread/INFO]: /clear [player] [item] [data] [maxCount] [dataTag]
+[20:50:01] [Server thread/INFO]: /clone <x1> <y1> <z1> <x2> <y2> <z2> <x> <y> <z> [maskMode] [cloneMode]
+[20:50:01] [Server thread/INFO]: Tip: Use the <tab> key while typing a command to auto-complete the command or its arguments
+[20:50:18] [Server thread/INFO]: Unknown command. Try /help for a list of commands
